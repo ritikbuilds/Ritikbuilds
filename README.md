@@ -2,7 +2,7 @@
 # Hello There!, I'm Ritik Prajapati! 👋
 
 
-I am a dedicated frontend web developer specializing in crafting dynamic, user-centric interfaces. With expertise in HTML, CSS, JavaScript, React.js, and a range of tools and frameworks including Tailwind CSS, SCSS, Redux for state management, and GSAP for advanced animations, I deliver innovative, scalable, and efficient web solutions. My strong problem-solving skills and collaborative approach ensure successful project execution.
+I am a dedicated frontend developer specializing in crafting dynamic, user-centric interfaces for both web and mobile platforms. With expertise in JavaScript, React.js, mobile development, and a range of tools and frameworks including Tailwind CSS, SCSS, Redux for state management, and GSAP for advanced animations, I deliver innovative, scalable, and efficient solutions. I am always eager to explore new technologies and push the boundaries of innovation in web and mobile development.
 
 
 ## 🔗 Links
