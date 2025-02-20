@@ -2,7 +2,7 @@
 # Hello There!, I'm Ritik Prajapati! 👋
 
 
-I am a dedicated frontend developer specializing in crafting dynamic, user-centric interfaces for both web and mobile platforms. With expertise in JavaScript, React.js, React Native, and a range of tools and frameworks including Tailwind CSS, SCSS, Redux for state management, and GSAP for advanced animations, I deliver innovative, scalable, and efficient solutions. I am always eager to explore new technologies and push the boundaries of innovation in web and mobile development.
+I am a dedicated full-stack developer specializing in building dynamic, user-centric applications for both web and mobile platforms. With expertise in JavaScript, React.js, React Native, Node.js, Express, and MongoDB, I craft scalable and efficient solutions from frontend to backend. I leverage tools and frameworks such as Tailwind CSS, SCSS, Redux for state management, and GSAP, Framer Motion for advanced animations to create seamless and engaging user experiences. Constantly exploring new technologies, I am passionate about pushing the boundaries of innovation in web and mobile development.
 
 
 ## 🔗 Links
@@ -12,5 +12,5 @@ I am a dedicated frontend developer specializing in crafting dynamic, user-centr
 
 
 ## 🛠 Skills
-JavaScript, React, React Native, Redux, SASS, Tailwind CSS, Git, GitHub, Bootstrap, GSAP, Framer Motion.
+JavaScript, React, React Native, Nodejs, Express, MongoDB, Redux, SASS, Tailwind CSS, Git, GitHub, Bootstrap, GSAP, Framer Motion.
 
