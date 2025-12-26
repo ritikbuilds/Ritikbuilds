@@ -2,7 +2,7 @@
 # Hello There!, I'm Ritik Prajapati! 👋
 
 
-I am a dedicated full-stack developer specializing in building dynamic, user-centric applications for both web and mobile platforms. With expertise in JavaScript, React.js, React Native, Node.js, Express, and MongoDB, I craft scalable and efficient solutions from frontend to backend. I leverage tools and frameworks such as Tailwind CSS, SCSS, Redux for state management, and GSAP, Framer Motion for advanced animations to create seamless and engaging user experiences. Constantly exploring new technologies, I am passionate about pushing the boundaries of innovation in web and mobile development.
+I’m a React Native developer focused on building fast, reliable, and meaningful mobile experiences. I specialize in architecting scalable app structures, crafting pixel-perfect UIs and delivering features that feel intuitive and effortless to users. With hands-on experience across React Native, Node.js, Expo, offline-first design, and performance optimization, I enjoy turning ideas into production-ready apps that solve real problems.
 
 
 ## 🔗 Links
