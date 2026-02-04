@@ -12,5 +12,5 @@ I’m a React Native developer focused on building fast, reliable, and meaningfu
 
 
 ## 🛠 Skills
-JavaScript, React, React Native, Nodejs, Express, MongoDB, Redux, SASS, Tailwind CSS, Git, GitHub, Bootstrap, GSAP, Framer Motion.
+JavaScript, TypeScript, React, React Native, Nodejs, Express, MongoDB, Redux, Git, GitHub.
 
